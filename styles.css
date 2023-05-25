@@ -1,0 +1,35 @@
+#noun1{/*all #'s are for recoloring the buttons*/
+    background-color: rgb(160, 16, 160);
+}
+#verb{
+    background-color: aqua;
+}
+#adjective{
+    background-color: lime;
+}
+#noun2{
+    background-color: orange;
+}
+#setting{
+    background-color: violet;
+}
+#playback{
+    background-color: cyan;
+}
+#random{
+    background-color: red;
+}
+html{/*recolors the background of the page*/
+    background-color: rgb(255, 213, 0);
+}
+*{/*Aligns everything, and refonts everything to times new roman*/
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+button{/*curves the corners of the buttons*/
+    border-radius: 15px;
+}
+img{/*shrinks, and rounds the image underneath*/
+    max-width: 20%;
+    border-radius: 20px;
+}
